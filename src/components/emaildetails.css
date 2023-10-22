@@ -1,0 +1,40 @@
+.mainpage {
+    width: 900px;
+    border: 1px solid #cfd2dc;
+    background-color: #f4f5f9;
+    border-radius: 8px;
+    position: absolute;
+    top: 75px;
+    left: 595px;
+    height: 85vh;
+}
+
+.headsection {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 10px 5px 0;
+
+}
+
+h1 {
+    color: #636363;
+    margin-right: 520px;
+    font-size: 25px;
+}
+
+.favbtn {
+    height: 35px;
+    background-color: #E54065;
+    border-radius: 20px;
+    border: 1px solid #cfd2dc;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
+
+.maincontent {
+    margin: 15px 70px 15px 70px;
+    text-align: justify;
+    color: #636363;
+}
